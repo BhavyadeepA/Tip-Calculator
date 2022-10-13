@@ -67,7 +67,7 @@ class HomeState extends State<HomeScreen> {
 
   var amt = "";
   var tip = "";
-
+// This is a Tip Calculator
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
